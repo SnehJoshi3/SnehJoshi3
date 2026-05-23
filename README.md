@@ -1,3 +1,6 @@
-## Hi there 👋
+# Hii there 👋
 
-Have a great day Ahead !!!
+welcome to my unmaintained github profile 😆
+
+if you landed here accidentally,
+i hope you have a peaceful day ahead 🌱
