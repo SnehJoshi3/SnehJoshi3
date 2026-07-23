@@ -1,6 +1,6 @@
 # Hii there 👋
 
-welcome to my unmaintained github profile 😆
+Welcome to my unmaintained github profile 😆
 
-if you landed here accidentally,
-i hope you have a peaceful day ahead 🌱
+If you landed here accidentally,
+I hope you have a peaceful day ahead...
